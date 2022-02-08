@@ -1,0 +1,14 @@
+\begin{theindex}
+
+  \item {len}
+    \subitem {Str\+\_\+t}, \hyperpage{3}
+
+  \indexspace
+
+  \item {Str\+\_\+t}, \hyperpage{3}
+    \subitem {len}, \hyperpage{3}
+    \subitem {sz}, \hyperpage{3}
+  \item {sz}
+    \subitem {Str\+\_\+t}, \hyperpage{3}
+
+\end{theindex}
