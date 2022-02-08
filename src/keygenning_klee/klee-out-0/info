@@ -1,0 +1,21 @@
+klee test1.bc
+PID: 4309
+Started: 2020-03-22 18:21:53
+BEGIN searcher description
+<InterleavedSearcher> containing 2 searchers:
+RandomPathSearcher
+WeightedRandomSearcher::CoveringNew
+</InterleavedSearcher>
+END searcher description
+Finished: 2020-03-22 18:21:53
+Elapsed: 00:00:00
+KLEE: done: explored paths = 2
+KLEE: done: avg. constructs per query = 14
+KLEE: done: total queries = 3
+KLEE: done: valid queries = 1
+KLEE: done: invalid queries = 2
+KLEE: done: query cex = 3
+
+KLEE: done: total instructions = 26
+KLEE: done: completed paths = 2
+KLEE: done: generated tests = 2
